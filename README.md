@@ -91,9 +91,9 @@ Dataset: `revcycle_silver`
 
 Tables:
 - `fact_claim`
-- `fact_transaction` *(optional enhancement)*
-- `fact_encounter` *(optional enhancement)*
-- `dim_patient` *(SCD Type 2 optional enhancement)*
+- `fact_transaction`
+- `fact_encounter`
+- `dim_patient`
 
 ### Gold (Business)
 Dataset: `revcycle_gold`
