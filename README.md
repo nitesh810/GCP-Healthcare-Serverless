@@ -1,6 +1,6 @@
 # GCP-HEALTHCARE-SERVERLESS (Serverless Healthcare RCM Data Lakehouse)
 
-This is an end-to-end **GCP Data Engineering portfolio project** built for the **Healthcare Revenue Cycle Management (RCM)** domain.  
+This is an end-to-end **GCP project** built for the **Healthcare Revenue Cycle Management (RCM)** domain.  
 It demonstrates how to design a **serverless data lakehouse** using **GCS + BigQuery** with **Medallion Architecture (Bronze → Silver → Gold)** and orchestration using **Cloud Scheduler + Cloud Function (Gen2)**.
 
 ---
